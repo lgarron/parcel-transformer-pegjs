@@ -14,7 +14,7 @@ Add to `.parcelrc`:
 
 ```json
 {
-  // ...
+  //...
   "transformers": {
     "*.pegjs": ["parcel-transformer-pegjs"]
   }
